@@ -1,6 +1,6 @@
 # Prompt Engineering Portfolio
-Name: Rathan J
-Date: 07-06-2026
+Name: Rathan J  
+Date: 07-06-2026  
 LLM Used: ChatGPT-5.5
 
 ## Part 1: Prompt Design & Iteration
