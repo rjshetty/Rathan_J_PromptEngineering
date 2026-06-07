@@ -175,6 +175,7 @@ Act as an expert science teacher who excels at making complex ideas simple. Expl
 Limit your response to under 150 words and end with a quick, interactive question to test their understanding.
 
 **V3. LLM Output:**
+
 Imagine your school is trying to guess what's inside a mystery box.
 
 One student shakes the box and says, "It sounds like marbles."
@@ -274,6 +275,7 @@ Warm regards,
 
 
 ### 1.1 Scenario C: Creative Content
+
 **Goal:** Generate a creative marketing tagline for a new eco-friendly water bottle brand
 
 ### V1. Initial Prompt: 
@@ -547,7 +549,7 @@ One final analogy: if Earth were a vast economy, photosynthesis would be the **p
 
 ### 2.2 Analysis & Recommendations
 
-**Low Temperature** (Scientific and detailed)
+### Low Temperature (Scientific and detailed)
 
 Strengths
 
@@ -564,7 +566,7 @@ Goes beyond what many users need for a basic explanation.
 
 Best for: Students, biology learners, academic or technical contexts.
 
-**Medium Temperature** (Concise scientific explanation)
+### Medium Temperature (Concise scientific explanation)
 
 Strengths
 
@@ -579,7 +581,7 @@ Limited explanation of how the process works.
 
 Best for: Quick learning, introductory explanations.
 
-**High Temperature** (Creative with analogies)
+### High Temperature (Creative with analogies)
 
 Strengths
 
